@@ -126,3 +126,104 @@ nav{
   margin-top: -95px;
   padding-right: 69px;
 }
+.about{
+  height: 339px;
+  width: 100%;
+  border-top: 1px solid #33253a;
+  border-bottom: 1px solid #1d2f37;
+  background: #745082;
+  background: -webkit-linear-gradient(#745082 0%, #322539 100%);
+  background: -o-linear-gradient(#745082 0%, #322539 100%);
+  background: linear-gradient(#745082 0%, #322539 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#745082', endColorstr='#322539',GradientType=0 );
+}
+.about__wraper{
+  width: 980px;
+  margin: 0 auto;
+  height: 339px;
+  position: relative;
+  overflow: hidden;
+}
+.about__box1{
+  overflow: hidden;
+  width: 279px;
+  float: left;
+  height: 339px;
+  margin-top: 76px;
+  margin-left:20px;
+}
+.about__box2{
+  overflow: hidden;
+  width: 279px;
+  float: left;
+  height: 339px;
+  margin-top: 76px;
+  margin-left: 61px;
+}
+.about__box3{
+  overflow: hidden;
+  width: 279px;
+  float: left;
+  height: 339px;
+  margin-top: 76px;
+  margin-left:58px;
+}
+.about__icon1{
+  margin-top: 6px;
+  float: left;
+  width: 30px;
+  height: 339px;
+  background: url(../img/sprites.png) no-repeat;
+}
+.about__icon2{
+  margin-top: 6px;
+  float: left;
+  width: 30px;
+  height: 339px;
+  background: url(../img/sprites.png) no-repeat;
+  background-position: -37px 0px;
+}
+.about__icon3 {
+  margin-top: 6px;
+  float: left;
+  width: 30px;
+  height: 339px;
+  background: url(../img/sprites.png) no-repeat;
+  background-position: -74px 0px;
+}
+.about__content{
+  overflow: hidden;
+  padding-left: 23px;
+
+}
+.about__headline{
+  font-family: league_gothicregular, Tahoma, sans-serif;
+  font-size: 30px;
+  text-transform: uppercase;
+  text-shadow: 0px 1px 0px rgba(15, 21, 24, 0.004);
+  color: #fff;
+}
+.about__paragraph{
+  padding-top: 8px;
+  font-family: open_sanslight, Tahoma, sans-serif;
+  font-size: 16px;
+  text-shadow: 0px 1px 0px rgba(15, 21, 24, 0.004);
+  color: #fff;
+  line-height: 24px;
+
+}
+.about__link{
+  display: block;
+  text-align: right;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-family: league_gothicregular, Tahoma, sans-serif;
+  font-size: 18px;
+  color: #fff;
+  margin-top: 20px;
+  padding-right: 9px;;;
+
+}
+.about__link:hover{
+  text-shadow: 0px 0px 8px rgba(255, 255, 255, 0.8);
+}
