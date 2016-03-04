@@ -10,27 +10,38 @@
   }
   nav{
     padding-top: 29px;
-    padding-left: 3px;
+    padding-left: 0px;
   }
   .menu {
     float: left;
-    width: 686px;
+    width: 692px;
+    padding-right: 0px;
   }
   .menu__item {
     margin-right: 58px;
     margin-left: -6px;
-    margin-top: 112px;
+    margin-top: 114px;
+    padding-right: 0px;
   }
   /*CONTENT*/
   .sliders {
     margin-top: 82px;
-    min-width: 768px;
-    height: 554px;
+    height: 555px;
+    width: 960px;
+  }
+  .sliders__background{
+    width: 960px;
+
+  }
+  .sliders__wrapper{
+    width: 768px;
+    margin: 0 auto;
   }
   .sliders__leftbox {
     width: 2.865%;
   }
   .sliders__centralbox {
+
     width: 679px;
     height: 345px;
   }
@@ -42,18 +53,24 @@
   }
   .sliders__hedline1 {
     font-size: 48px;
-    margin-top: 0px;
+    margin-top: -1px;
+    margin-left: 3px;
   }
   .sliders__hedline2 {
     font-size: 24px;
     margin-top: 8px;
+    margin-left: 2px;
+    overflow: hidden;
+    width: 283px;
+    height: 24px;
   }
   .sliders__paragraph {
     font-size: 16px;
-    margin-top: 5px;
-    line-height: 28px;
+    margin-top: 7px;
+    line-height: 27px;
     height: 108px;
     overflow: hidden;
+    margin-left: 3px;
   }
   .sliders_img {
     padding-right: 0px;
@@ -66,7 +83,7 @@
   .sliders__rightarrow{
     position: absolute;
     top: 45%;
-    right: -122%;
+    right: -147%;
   }
   .sliders__leftarrow{
     position: absolute;
@@ -74,15 +91,18 @@
     left: -13px;
   }
   .sliders__radio-wrapper{
-    padding-left: 501px;
+    margin: 0;
+    width: 200px;
+    padding-left: 632px;
+    padding-top: 14px;
   }
   .about__wraper{
     width: 768px;
     margin: 0 auto;
   }
   .about__box1{
-    margin-top: 71px;
-    margin-left: 23px;
+    margin-top: 72px;
+    margin-left: 31px;
     width: 221px;
   }
   .about__box2{
@@ -124,7 +144,7 @@
   }
   .testimonials{
     background: url(../img/bg-testimonials768px.png) top right no-repeat;
-    padding-left: 45px;
+    padding-left: 53px;
   }
   .testimonials__headline{
     margin-left: 31px;
@@ -156,9 +176,14 @@
     background: url(../img/logos728px.png) no-repeat center;
     width: 728px;
   }
+  .comments{
+    height: 205px;
+  }
   .comments__box{
-    margin-right: 8px;
+    margin-right: 37px;
     margin-top: 5px;
+    margin-left: 0;
+    padding-left: 20px;;
 
   }
   .commets__headline{
@@ -174,21 +199,26 @@
     margin-left: -15px;
 
   }
+  /*FOOTER*/
+  .footer{
+    background: url(../img/footer-bg768.jpg) no-repeat bottom;
+    height: 599px;
+  }
   .footer__nav{
     width: 768px;
   }
   .footer__menu{
-    width: 578px;
+    width: 579px;
 
   }
   .footer__item{
     margin-top: 42px;
-    margin-right: 32px;
-    margin-left: 11px;
+    margin-right: 22px;
+    margin-left: 21px;
   }
   .gesignedby{
     float: left;
-    margin-top: 103px;
-    margin-left: 21px;;
+    margin-top: 102px;
+    margin-left: 31px;;
 
   }
