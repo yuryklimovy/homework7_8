@@ -8,7 +8,7 @@
     height: 162px;
     margin: 0 auto;
   }
-  nav{
+  .header__nav{
     padding-top: 29px;
     padding-left: 0px;
   }
@@ -177,6 +177,7 @@
     width: 728px;
   }
   .comments{
+    width: 768px;
     height: 205px;
   }
   .comments__box{

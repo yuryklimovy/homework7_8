@@ -1,0 +1,132 @@
+@media (max-width: 767px){
+  body{
+    max-width: 767px;
+
+  }
+  .header{
+    width: 480px;
+    height: 133px;
+    margin: 0 auto;
+    background-position: center 49px;
+
+  }
+  .menu{
+    display: none;
+  }
+  /*CONTENT*/
+  .sliders {
+    margin-top: 69px;
+    height: 344px;
+    width: 480px;
+  }
+  .sliders__background{
+    width: 767px;
+    height: 246px;
+  }
+  .sliders__wrapper{
+    width: 480px;
+    margin: 0 auto;
+  }
+  .sliders__leftarrow{
+    position: absolute;
+    top: 41%;
+    left: -13px;
+  }
+  .sliders__centralbox {
+    width: 417px;
+    height: 189px;
+  }
+  .sliders__text {
+    margin-top: 14px;
+    margin-left: 3px;
+  }
+  .sliders__hedline1 {
+    font-size: 36px;
+    margin-top: 0;
+    margin-left: 3px;
+  }
+  .sliders__hedline2 {
+    font-size: 18px;
+    margin-top: 2px;
+    margin-left: 2px;
+    overflow: hidden;
+    width: 189px;
+    height: 18px;
+  }
+  .sliders__paragraph {
+    display: none;
+  }
+  .sliders_img {
+    width: 185px;
+    padding-right: 0px;
+    margin-right: 2px;
+    margin-top: -158px;
+  }
+  .sliders__rightarrow{
+    position: absolute;
+    top: 41%;
+    right: -152%;
+  }
+  .sliders__radio-wrapper{
+    width: 100px;
+    padding-left: 337px;
+    padding-top: 0px;
+    margin: 0;
+  }
+  .about__wraper{
+    width: 480px;;;
+    margin: 0 auto;
+    height: 560px;;
+  }
+  .about{
+    height: 596px;
+  }
+  .about__box1{
+    margin-top: 69px;
+    margin-left: 10px;
+    float: none;
+    width: 480px;
+    height: 140px;
+  }
+  .about__icon1{
+    margin-top: 8px;
+    margin-left: 20px;
+  }
+  .about__icon2{
+    margin-top: 8px;
+    margin-left: 20px;
+  }
+  .about__icon3{
+    margin-top: 5px;
+    margin-left: 31px;
+  }
+  .about__box2{
+    margin-top: 17px;
+    margin-left: 9px;
+    width: 480px;
+    float: none;
+    height: 161px;
+  }
+  .about__box3{
+    width: 503px;
+    float: none;
+    padding: 0;
+    margin: 0;
+    margin-top: 0;;
+
+  }
+  .about__content{
+    width: 407px;;;;
+  }
+  .about__paragraph{
+    width: 430px;
+    height: initial;
+    padding: 0;
+    margin: 0;
+  }
+  .about__link{
+    margin: 19px 37px 0px 0;
+    padding: 0;
+
+  }
+}
