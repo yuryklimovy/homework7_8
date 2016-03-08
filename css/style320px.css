@@ -54,11 +54,14 @@
   }
   .about__box1{
     margin-top: 62px;
-    width: 355px;
+    width: 300px;
+    overflow: hidden;
   }
   .about__content{
-    width: 211px;
+    width: 191px;
+    overflow: hidden;
   }
+
   .about__paragraph{
     width: 100%;;
     padding: 0;
@@ -71,6 +74,13 @@
   }
   .about__box2{
     height: 174px;
+    width: 300px;
+    overflow: hidden;;
+  }
+  .about__box3{
+    width: 287px;
+    overflow: hidden;
+
   }
   .lightgrey-wrapper1{
     width: 100%;
@@ -137,7 +147,7 @@
     display: none;
   }
   .footer{
-    height: 201px;
+    height: 202px;
   }
   .footer__nav{
     width: 320px;

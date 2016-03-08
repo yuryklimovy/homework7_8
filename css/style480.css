@@ -152,10 +152,8 @@
     right: -152%;
   }
   .sliders__radio-wrapper{
-    width: 100px;
-    padding-left: 337px;
-    padding-top: 0px;
-    margin: 0;
+    top: 267px;
+    left: 40%;
   }
   .about__wraper{
     width: 480px;;;
@@ -163,7 +161,7 @@
     height: 560px;;
   }
   .about{
-    height: 597px;
+    height: 594px;
   }
   .about__box1{
     margin-top: 69px;
@@ -192,7 +190,7 @@
     height: 161px;
   }
   .about__box3{
-    width: 503px;
+    width: 505px;
     float: none;
     padding: 0;
     margin: 0;
@@ -236,22 +234,24 @@
     font-size: 30px;
   }
   .testimonials__paragraph{
-    padding-left: 35px;
+    padding-left: 74px;
     padding-top: 4px;
-    height: 226px;
+    height: 173px;
+    width: 360px;
   }
 
   .testimonials__radio-wrapper{
     float: none;
     margin: 0 auto;
     width: 100px;
-    padding-left: 26px;
+    padding-left: 24px;
+    margin-top: 54px;
   }
   .fromblog{
     float: none;
     width: 430px;
     margin-top: 71px;
-    margin: 0 auto;
+    margin-left: 70px;
   }
   .fromblog__postedby{
     height: 17px;
@@ -259,8 +259,8 @@
     width: 268px;
   }
   .flomblog__link{
-    margin-top: -3px;
-    padding-right: 39px;
+    margin-top: 0px;
+    padding-right: 86px;
   }
   .lightgrey-wrapper2{
     height: 230px;

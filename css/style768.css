@@ -27,7 +27,7 @@
       height: 555px;;
     }
     .sliders__background {
-      width: 960px;
+      width: 100%;
     }
     .sliders__wrapper {
       width: 768px;
@@ -79,8 +79,7 @@
     .sliders__radio-wrapper {
       margin: 0;
       width: 200px;
-      padding-left: 632px;
-      padding-top: 14px;
+      top: 437px;
     }
     .about__wraper {
       width: 768px;
@@ -148,6 +147,11 @@
       margin-left: -10px;
       overflow: hidden;
     }
+    .testimonials__radio-wrapper{
+      margin-top: 65px;
+      margin-left: 65px;
+
+    }
     .fromblog {
       width: 348px;
       margin-top: 32px;
@@ -166,7 +170,7 @@
       margin-top: 5px;
       margin-left: 0;
       padding-left: 20px;
-      
+
     }
     .commets__headline {
       font-size: 26px;
