@@ -233,7 +233,7 @@ body{
   margin-left:58px;
   word-wrap: break-word;
 }
-  .about__icon1{
+ .about__icon1{
   margin-top: 6px;
   float: left;
   width: 30px;
@@ -468,7 +468,7 @@ body{
   font-family: league_gothicregular, Tahoma, sans-serif;
   font-size: 30px;
   color: rgb(69, 69, 69);
-  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.004);
+    : 0px 1px 0px rgba(255, 255, 255, 0.004);
 }
 .footer__nav{
   height: 114px;
